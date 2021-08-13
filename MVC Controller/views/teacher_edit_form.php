@@ -13,7 +13,7 @@
         <td><input class="form-control" name="surname" value="<?=$data['surname'] ?>""></td>
 
         <td colspan="2" align="right">
-            <button type="submit" class="btn btn-success" style="margin-top:10px; width:100%">Ekle</button>
+            <button type="submit" class="btn btn-warning" style="margin-top:10px; width:100%">Düzenle</button>
 
     </form>
 </div>
