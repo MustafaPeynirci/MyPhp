@@ -9,7 +9,7 @@ MVC Controller üzerine PHP ile yazılmış, içinde temel komutları (login, in
 ![1](https://user-images.githubusercontent.com/87112713/129396419-824aa439-32e4-42a4-baa0-b1a47a579da4.png)
 ![2](https://user-images.githubusercontent.com/87112713/129396422-721ed464-3786-4aab-bc49-f6998bdc451c.png)
 ![3](https://user-images.githubusercontent.com/87112713/129396426-6efdfcf7-d568-4a7d-963e-5466d326b01d.png)
-![4](https://user-images.githubusercontent.com/87112713/129396435-40e2e77f-439d-4257-b364-a06974dcea92.png)
+![4](https://user-images.githubusercontent.com/87112713/129397036-0b26d026-6033-45e0-b834-cf2a081af6e1.png)
 
 
 ## Installation
