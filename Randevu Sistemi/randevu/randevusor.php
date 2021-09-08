@@ -56,8 +56,8 @@
     <div class="row"> 
 
     <form action="" method="post">
-        <input type="number" class="form form-control" style="margin-left:83%" name="tc" placeholder="TC Kimlik">
-        <input type="submit" class="btn btn-success btn-lg " style="margin-left:10px" value="Sorgula">
+        <input type="number" class="form form-control" style="margin-left: 120px" name="tc" placeholder="TC Kimlik">
+        <input type="submit" class="btn btn-success btn-lg " style="float: left; margin-top:-40px" value="Sorgula">
     </form>
 
    
